@@ -1,0 +1,3 @@
+This is a project that identifies the text from an image and stores it as a string.
+This text extracted from the image can be translated to other languages, capitalized and
+much more.
